@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tarea 10 (Capicua)/1.0.0": {
+        "runtime": {
+          "Tarea 10 (Capicua).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea 10 (Capicua)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

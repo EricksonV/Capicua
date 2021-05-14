@@ -1,0 +1,16 @@
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).csprojAssemblyReference.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).AssemblyInfoInputs.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).AssemblyInfo.cs
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\bin\Debug\net5.0\Tarea 10 (Capicua).exe
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\bin\Debug\net5.0\Tarea 10 (Capicua).deps.json
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\bin\Debug\net5.0\Tarea 10 (Capicua).runtimeconfig.json
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\bin\Debug\net5.0\Tarea 10 (Capicua).runtimeconfig.dev.json
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\bin\Debug\net5.0\Tarea 10 (Capicua).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\bin\Debug\net5.0\ref\Tarea 10 (Capicua).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\bin\Debug\net5.0\Tarea 10 (Capicua).pdb
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\ref\Tarea 10 (Capicua).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).pdb
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\Tarea 10 (Capicua)\obj\Debug\net5.0\Tarea 10 (Capicua).genruntimeconfig.cache
